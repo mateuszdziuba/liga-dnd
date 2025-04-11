@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/miejsca/chult/chult/"}
+{"dg-publish":true,"permalink":"/miejsca/chult/chult/","tags":["gardenEntry"]}
 ---
 
 ![chult-map.png](/img/user/chult-map.png)
