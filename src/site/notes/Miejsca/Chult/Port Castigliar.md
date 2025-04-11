@@ -4,7 +4,7 @@
 
 
 ### Zadania
-- [[Zadania/Poboczne/Małpa małpce coś tam\|Małpa małpce coś tam]]
+- [[Zadania/Poboczne/Jak małpka z małpką\|Jak małpka z małpką]]
 
 { .block-language-dataview}
 

@@ -3,4 +3,4 @@
 ---
 
 
-Wiedźma, która może pomóc usunąc branzolety.
+Wiedźma, która może pomóc usunąc bransolety.
